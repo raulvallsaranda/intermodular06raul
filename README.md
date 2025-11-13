@@ -1,7 +1,9 @@
 # Activitat 06 Raül
 ## Projecte intermodular
 
-| Imatge 1: Polp | ![Polp](./img/polp.jpb) |
-| Imatge 2: Medusa | ![Medusa](./img/medusa) |  
+| Text              | Imatge |
+| :---------------: | :-------------: |
+| Imatge 1: Polp   | ![Polp](./img/polp.jpg) |
+| Imatge 2: Medusa | ![Medusa](./img/medusa.jpg) |  
 
 - [Inici](index.html)
